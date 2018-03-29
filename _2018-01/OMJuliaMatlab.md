@@ -11,7 +11,7 @@ called OMJulia and OMMatlab.[Users Guide](https://www.openmodelica.org/doc/OpenM
 
 Simulation of a Seborg chemical process reactor
  
-The OMJulia and OMMatlab scripting modules are available in the OpenModelica 1.13.0 Beta1 release and later releases. Below some highlights are briefly mentioned.:
+The OMJulia and OMMatlab scripting modules are standalone packages that can be downloaded and used together with the OpenModelica 1.12.0 release and later releases. Below some highlights are briefly mentioned.:
 
 - Access to the whole OpenModelica scripting API
 - Loading, compiling, and simulating models
