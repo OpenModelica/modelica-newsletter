@@ -15,7 +15,7 @@ The figure shows 3D visualization and animation using OpenModelica.
 
 Below the main aspects are described of the [OpenModelica 1.12.0 release](https://openmodelica.org/doc/OpenModelicaUsersGuide/v1.12.0/) from October 2017 which is the most recent stable regular release.
 Substantial work on improved stability, library coverage, and verification coverage has been done.
-An OpenModelica 1.13.0 Beta release is planned in April-2018.[see]((https://www.openmodelica.org/))
+An OpenModelica 1.13.0 Beta release is planned in April-2018.[see](https://www.openmodelica.org/)
 
 Summary of some of the most important improvements:
 
