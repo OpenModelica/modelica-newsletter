@@ -4,8 +4,8 @@ author: "Peter Fritzson [Open Source Modelica Consortium](https://www.openmodeli
 category: "vendor"
 ---
 
-Julia and Matlab scripting interfaces have been introduced to the OpenModelica tool suite [see](https://www.openmodelica.org/) 
-called OMJulia and OMMatlab.[see](https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/)
+Julia and Matlab scripting interfaces have been introduced to the OpenModelica tool suite [openmodelica.org](https://www.openmodelica.org/) 
+called OMJulia and OMMatlab.[Users Guide](https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/)
 
 ![](Seborg-Chemical1.jpg)
 
@@ -17,5 +17,5 @@ The OMJulia and OMMatlab scripting modules are available in the OpenModelica 1.1
 - Loading, compiling, and simulating models
 - Operations on models such as linearization.
 - Loading simulation results for analysis, plotting, etc.
-- Parameter sweeps, e.g. for optimization and/or sensitivity analysis.
+- Parameter sweeps, e.g. for sensitivity analysis.
 - Control design when used together with appropriate Julia or Matlab packages.
